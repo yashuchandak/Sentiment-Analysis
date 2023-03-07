@@ -1,17 +1,28 @@
-max scrap around 500?
-
-tweepy twitter api
+tweepy twitter api : mobile number add nhi to developer account nhi
 snscrape
-
-why not class
-
-searches sorted by ?
 
 topics on which we would apply stats
 1. election compaign
 2. Social Media Monitoring Online reputation is one of the most precious assets for brands. A bad review on social media can be costly to a company if it’s not handled effectively and swiftly.
 3. hate speech  
 
-vimal ad
+vimal ad, abortion, weapons sale
+
+stfu?
+
+turkish people sentiments about india
+
+usa states
 
 
+snscrape kaunse kaunse replies le raha reply ka reply?
+only donald ke replies?
+
+more than specific length >10 >5 print(polarity("True")) = 0.35 
+Donald Trump lang:en -filter:replies
+
+
+how many tweets to scrap or how many days of tweets
+likes
+subjectivity on basis of likes
+subjectivity
