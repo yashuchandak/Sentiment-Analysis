@@ -12,8 +12,7 @@ stfu?
 
 turkish people sentiments about india
 
-usa states
-
+# usa states
 
 snscrape kaunse kaunse replies le raha reply ka reply?
 only donald ke replies?
@@ -26,3 +25,11 @@ how many tweets to scrap or how many days of tweets
 likes
 subjectivity on basis of likes
 subjectivity
+
+Some popular sentiment analysis tools include TextBlob, VADER, and NLTK.
+kaunsa lexicon use karna hai VADER, MPQA......
+
+# replies chalenge bs kenght ka laga do restriction
+
+#donald trump search kara to replies aa rahe
+usme donald trump likha hona hoi chahiye
