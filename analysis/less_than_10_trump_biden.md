@@ -1,9 +1,14 @@
+**###############################**
+tweet filter length ko change?
+kitna % sentiment wale tweets lose kar rahe?
+**###############################**
+
 Donald Trump 2
 @America1stMedia Wasn’t that Donald Trump’s idea, that Biden nixed?? 9
 Piers Morgan eats Donald Trump's ass 6
-*I HATE furry Donald Trump fans!* 6
+**I HATE furry Donald Trump fans!** 6
 @AdamKinzinger Donald Trump didn't. Just sayin'. 6
-*You’re crazy like your master donald trump 🖕🏽🖕🏽🖕🏽🖕🏽🖕🏽🖕🏽* 8
+**You’re crazy like your master donald trump 🖕🏽🖕🏽🖕🏽🖕🏽🖕🏽🖕🏽** 8
 @ianbremmer History will be kind to Donald Trump. 8
 @olex_scherba Looks a lot like a Donald Trump rally... 9
 What Happened After N.Y AG Sued Donald Trump
@@ -29,11 +34,11 @@ https://t.co/o3OiY88smH 8
 Donald Trump Replies To “Sick And Fraudulent” Accusation
 https://t.co/lGC4Lvnv2x 9
 Donald Trump can’t be Controlled https://t.co/R4L0u6DB7u via @YouTube 8
-*And Donald Trump killed Ashli Babbitt!* 6
+**And Donald Trump killed Ashli Babbitt!** 6
 @PeImeniPusha US should sanction Hunter Biden and Donald Trump. 9
 Clarifying My View of Donald Trump https://t.co/jAt1sYmFhx 7
 Donald trump lit he rock wit ++++man 7
-*Mike Pence says Donald Trump 'endangered' his family https://t.co/2FfSro7H5j* 9
+**Mike Pence says Donald Trump 'endangered' his family https://t.co/2FfSro7H5j** 9
 @CalltoActivism Donald Trump 3
 Donald Trump Just D.C Washington Swamp Spinning
 https://t.co/MLuoVbfgji 8
@@ -66,12 +71,13 @@ https://t.co/ibock3aGJx 9
 (12:04am) **Donald Trump is still alive and kicking.** 8
 #DonaldTrump's bad legal weekend https://t.co/W509beInZI via @YouTube 7
 **Black Man APOLOGIZES To Donald Trump** https://t.co/CKqjPYclxt via @YouTube 9
-@davidwcpf @mitchellvii *Donald Trump would never!!!*  🤣 https://t.co/5miRCJiZdf 8
+@davidwcpf @mitchellvii **Donald Trump would never!!!  🤣 https://t.co/5miRCJiZdf** 8
 @nyetengale I support Donald Trump for 47th president PERIOD 9
 Que haces con Donald Trump quackity https://t.co/7CEh9TB0ho 7
 @DailyNoahNews **I do!! President Donald Trump 💜 @realDonaldTrump** 8
 
-500 me se 74 with less than 10 words
+500 me se 74 with less than 10 words i.e. 15%tweets
+15 feeling wali tweets rejected i.e. 20%
 **###############################**
 
 @SenRickScott @JoeBiden Another liar. 4
