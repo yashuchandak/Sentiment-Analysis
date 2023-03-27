@@ -29,26 +29,14 @@ subjectivity
 Some popular sentiment analysis tools include TextBlob, VADER, and NLTK.
 kaunsa lexicon use karna hai VADER, MPQA......
 
+
 replies chalenge bs length ka laga do restriction
 
 donald trump search kara to replies aa rahe
-usme donald trump likha hona hoi chahiye
-
-less than 10 words i.e. 15%tweets; 20% of rejected feeling walking
-
--0.013
-+0.03
+usme donald trump likha hona hi chahiye
 
 emojis express a lot
 
-# like search 2024 elections trump biden .....
-
-# removing emotionless words
-
-# freq of top words
-# segregate polarity according to state and freq of top words
-
-# overall polarity
 # segregate according to state and polarity
 
 # election advertising
